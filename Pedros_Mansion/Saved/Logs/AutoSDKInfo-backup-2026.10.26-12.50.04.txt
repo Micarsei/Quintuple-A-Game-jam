@@ -1,0 +1,59 @@
+[00:00:01.462] Setting temp directory to 'C:\Users\Micarsei\AppData\Local\Temp\UnrealBuildTool\4e7c1957'
+[00:00:01.480]     Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+[00:00:01.539] Unable to find valid SDK(s) for Android:
+[00:00:01.539]   Found Sdk Version, MinRequired=r27c, MaxRequired=r29.
+[00:00:01.539]   Found AutoSdk Version, Required=r27c.
+[00:00:01.541]         Registering build platform: Android - buildable: False
+[00:00:01.545]     Registering build platform: UnrealBuildTool.IOSPlatformFactory
+[00:00:01.622] Unable to find valid SDK(s) for IOS:
+[00:00:01.622]   Found Sdk Version, MinRequired=1100.0.0.0, MaxRequired=8999.0.
+[00:00:01.622]   Found AutoSdk Version, Required=26.1.1.
+[00:00:01.623]         Registering build platform: IOS - buildable: False
+[00:00:01.623]     Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+[00:00:01.634] Unable to find valid SDK(s) for Linux:
+[00:00:01.634]   Found Sdk Version, Required=v26_clang-20.1.8-rockylinux8.
+[00:00:01.634]   Found AutoSdk Version, Required=v26_clang-20.1.8-rockylinux8.
+[00:00:01.634]         Registering build platform: Linux - buildable: False
+[00:00:01.634]         Registering build platform: LinuxArm64 - buildable: False
+[00:00:01.635]     Registering build platform: UnrealBuildTool.MacPlatformFactory
+[00:00:01.642] Unable to find valid SDK(s) for Mac:
+[00:00:01.642]   Found Sdk Version, MinRequired=1100.0.0.0, MaxRequired=8999.0.
+[00:00:01.642]   Found AutoSdk Version, Required=26.1.1.
+[00:00:01.642]         Registering build platform: Mac - buildable: False
+[00:00:01.642]     Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+[00:00:01.651] Unable to find valid SDK(s) for TVOS:
+[00:00:01.651]   Found Sdk Version, MinRequired=1100.0.0.0, MaxRequired=8999.0.
+[00:00:01.651]   Found AutoSdk Version, Required=26.1.1.
+[00:00:01.651]         Registering build platform: TVOS - buildable: False
+[00:00:01.651]     Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+[00:00:01.673] Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+[00:00:01.673] Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+[00:00:01.674] Found Windows 10 SDK version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+[00:00:01.674] Found Universal CRT version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+[00:00:01.684] Win64 Installed SDK(s): MinVersion_Sdk=10.0.19041.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.26100.0, Version_AutoSdk=10.0.22621.0, CurrentVersion_AutoSdk=
+[00:00:01.684]         Registering build platform: Win64 - buildable: True
+[00:00:01.684]     Registering build platform: UnrealBuildTool.VisionOSPlatformFactory
+[00:00:01.685]         Registering build platform: VisionOS - buildable: False
+[00:00:01.691] ##PlatformValidate: Win64 VALID 10.0.22621.0
+[00:00:01.691] ##PlatformValidate: Mac INVALID 26.1.1
+[00:00:01.691] ##PlatformValidate: IOS INVALID 26.1.1
+[00:00:01.691] ##PlatformValidate: Android INVALID r27c
+[00:00:01.691] ##PlatformValidate: Linux INVALID v26_clang-20.1.8-rockylinux8
+[00:00:01.691] ##PlatformValidate: LinuxArm64 INVALID <UNKNOWN>
+[00:00:01.691] ##PlatformValidate: TVOS INVALID 26.1.1
+[00:00:01.692] ##PlatformValidate: VisionOS INVALID <UNKNOWN>
+[00:00:01.692] Unable to find required SDK version 'MainVersion' for platform LinuxArm64. Check your SDK.json files
+[00:00:01.692] Unable to find required SDK version 'MainVersion' for platform VisionOS. Check your SDK.json files
+[00:00:01.700] WriteFileIfChanged() wrote 0 changed files of 1 requested writes.
+[00:00:01.701] 
+[00:00:01.701] Timeline:
+[00:00:01.701] [  0.000]  +1.339 Main
+[00:00:01.701]    0.000          [  0.000]  +0.632 <unknown>
+[00:00:01.701]    0.632          [  0.632]  +0.276 Apply XmlConfig
+[00:00:01.701]    0.940          [  0.939]  +0.096 AddTelemetry
+[00:00:01.701]    1.117          [  1.117]  +0.222 RegisterPlatforms
+[00:00:01.702] [  1.347]  +0.005 TelemetryService.FlushEvents
+[00:00:01.702] [  1.354]
+[00:00:01.702] 
+[00:00:01.702] Result: Succeeded
+[00:00:01.702] Total execution time: 1.35 seconds
