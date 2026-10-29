@@ -95,7 +95,6 @@
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/TopDown/Blueprints/BP_CustomChar.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/TopDown/Levels/BPs/Tile2.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/B/TQ/Q6OC83Y0HCBFNWZ8SCJWGH.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/6/B9/2VZYEODVRF7843WWBEWT19.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/9/MN/W5K5O7BCKG8YPHCB596DUQ.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/3/72/0OC6E3XSPBBY2ZQZ129N6P.uasset",
@@ -112,7 +111,6 @@
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/5/S4/FMYR43FN50P5KZNK9C4N74.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/1/O3/DQK4DU2TFBN9PJF7W1SCNP.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/6/49/COKMHIZ7C4506LJY8TS74S.uasset",
-				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/3/WZ/5GNQGYFNQ51NZHO0MMYV9R.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/C/9Q/A30F0Q5GTUMUPT7TM90TLZ.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/6/IA/R7BL4EWX2H9E87OJ5EEQMI.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/A/CE/I70XJZ9UC48UVRCKYFEGFC.uasset",
@@ -150,6 +148,12 @@
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/TopDown/Blueprints/BP_Pawn.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/TopDown/Blueprints/BP_PawnController.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/3/62/C3LIEAHJT0D1UI1SAITCGK.uasset",
+				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/LevelPrototyping/Materials/M_Black.uasset",
+				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/8/SH/AQ45ZHCFJ19BU2DE15U9JM.uasset",
+				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/TopDown/Blueprints/BP_Transition.uasset",
+				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/TopDown/Blueprints/BP_WinTile.uasset",
+				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/B/TQ/Q6OC83Y0HCBFNWZ8SCJWGH.uasset",
+				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/3/WZ/5GNQGYFNQ51NZHO0MMYV9R.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/E/ZW/PKKXO9D7M954MKB6TCUE59.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/Quintuple-A-Game-jam/Pedros_Mansion/Content/__ExternalActors__/TopDown/Levels/Lvl_Prototyping/B/AN/UA2F3SB3LTEG3OMIYQK16H.uasset"
 			]
