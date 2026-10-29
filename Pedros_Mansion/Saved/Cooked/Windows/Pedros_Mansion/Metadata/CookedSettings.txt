@@ -1,0 +1,9 @@
+[CookSettings]
+Version=21F52B9EDD4D456AB1AF381CA172BD28
+LegacyBuildDependencies=false
+DependencyTrackingEnabled=true
+CookIncrementalVersion=FFA12FDCC8221FE27757627A12F1D3A7
+ProjectCookIncrementalVersion=00000000000000000000000000000000
+CookMode=CookByTheBook
+DLCName=
+

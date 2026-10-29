@@ -1,0 +1,20 @@
+{
+	"zenserver":
+	{
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"172.16.25.105",
+			"hostname://DESKTOP-SMBDDLD"
+		],
+		"hostport": 8558,
+		"hostauth":
+		{
+			"type": "password",
+			"username": "ue",
+			"password": "E2FD2D5F4EC05AE608A5C4B196175DC2"
+		},
+		"projectid": "Pedros_Mansion.16bdc4af",
+		"oplogid": "Windows"
+	}
+}

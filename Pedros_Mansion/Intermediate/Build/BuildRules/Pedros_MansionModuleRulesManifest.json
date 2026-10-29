@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Micarsei\\Documents\\GitHub\\Quintuple-A-Game-jam\\Pedros_Mansion\\Intermediate\\Source\\Pedros_Mansion.Build.cs",
+		"C:\\Users\\Micarsei\\Documents\\GitHub\\Quintuple-A-Game-jam\\Pedros_Mansion\\Intermediate\\Source\\Pedros_Mansion.Target.cs",
+		"C:\\Users\\Micarsei\\Documents\\GitHub\\Quintuple-A-Game-jam\\Pedros_Mansion\\Intermediate\\Source\\Pedros_MansionClient.Target.cs",
+		"C:\\Users\\Micarsei\\Documents\\GitHub\\Quintuple-A-Game-jam\\Pedros_Mansion\\Intermediate\\Source\\Pedros_MansionEditor.Target.cs",
+		"C:\\Users\\Micarsei\\Documents\\GitHub\\Quintuple-A-Game-jam\\Pedros_Mansion\\Intermediate\\Source\\Pedros_MansionServer.Target.cs"
+	],
+	"EngineVersion": "5.8.4"
+}
